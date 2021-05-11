@@ -1,0 +1,4 @@
+Ahmet 80 175
+Ayşe 50 165
+Bahadır 100 180
+Bahar 60 150
